@@ -1,4 +1,4 @@
-# ![BOUNTY Logo](/Bounty-Bot-Discord/Bounty-Logo.jpeg) BOUNTY: Your All-in-One Server Management Bot
+# ![BOUNTY Logo](/Bounty-Logo.jpeg) BOUNTY: Your All-in-One Server Management Bot
 
 BOUNTY is a versatile and powerful Discord bot designed to handle all aspects of server management. From organizing tasks and managing rewards to moderating and enhancing your server's functionality, BOUNTY has got you covered.
 
