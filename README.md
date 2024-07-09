@@ -26,6 +26,9 @@ BOUNTY is currently under development, and many features are not yet available. 
 - `!moderate mute [user] [time]`: Mute a user for a specified time.
 - `!role assign [user] [role]`: Assign a role to a user.
 - `!poll create [question] [options]`: Create a new poll.
+- `!ping`: Check the bot's response time.
+- `!meme`: Get a random meme.
+- `!user [userid]`: Get information about a user.
 
 ## Support
 If you need help or have any questions, join our [Support Server](https://discord.gg/6DueXVrZ) .
